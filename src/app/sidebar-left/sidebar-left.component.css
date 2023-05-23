@@ -1,0 +1,21 @@
+.container{
+    max-width: 200px;
+    background-color: white ;
+    padding: 60px 60px;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+.buttons button{
+    outline: none;
+    border: none;
+    background-color: transparent;
+
+}
+
+.buttons h4{
+    padding: 6px 0;
+    display: flex;
+    gap: 9px;
+}
